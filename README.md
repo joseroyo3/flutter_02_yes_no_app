@@ -1,6 +1,6 @@
-# flutter_02_yes_no_app
+# flutter_02_chat
 
-Chat mode.
+A new Flutter project.
 
 ## Getting Started
 

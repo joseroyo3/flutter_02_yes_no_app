@@ -1,11 +1,11 @@
 {
-    "name": "flutter_02_yes_no_app",
-    "short_name": "flutter_02_yes_no_app",
+    "name": "flutter_02_chat",
+    "short_name": "flutter_02_chat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Chat mode.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
